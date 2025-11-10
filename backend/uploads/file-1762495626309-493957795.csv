@@ -1,0 +1,11 @@
+Task_ID,Assignee,Project,Status,Priority,Date_Created,Date_Completed,Completion_Time_Hours,Task_Comment_Sample
+TSK-101,Alice Johnson,API Services,Completed,High,2025-11-01,2025-11-06,58.1,"Great sync-up, feature is now stable. Moving on to the next task."
+TSK-102,Bob Smith,Mobile App,Open,High,2025-11-05,,,Waiting for critical dependency from API team. (Blocked)
+TSK-103,Grace Chen,Web Platform,Completed,Medium,2025-11-02,2025-11-07,25.6,Closed this task! The recent architecture change was a huge help.
+TSK-104,David Lee,API Services,Blocked,High,2025-11-03,,,This bug is causing major system instability. Requires immediate attention.
+TSK-105,Emma Wilson,Mobile App,Open,Low,2025-11-06,,,New feature development started. No issues yet.
+TSK-106,Bob Smith,Web Platform,Completed,Medium,2025-10-28,2025-11-05,72,"Completed after some delay, but the final code quality is excellent."
+TSK-107,Alice Johnson,API Services,Completed,High,2025-11-06,2025-11-07,10.5,Quick fix deployed and tested successfully. Closed immediately.
+TSK-108,Grace Chen,Mobile App,Open,High,2025-11-05,,,Currently in progress. Will need review by end of day.
+TSK-109,David Lee,Web Platform,Open,Medium,2025-11-04,,,Waiting for design team sign-off before coding can begin.
+TSK-110,Emma Wilson,API Services,Blocked,High,2025-11-06,,,Frustrated with the lack of clarity in requirements for this ticket. Need urgent meeting.

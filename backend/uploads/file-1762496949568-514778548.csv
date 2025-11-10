@@ -1,0 +1,26 @@
+taskId,title,description,status,priority,assignee,projectId,projectName,estimatedHours,actualHours,createdAt,completedAt,dueDate,tags,comments
+TASK-001,Setup authentication system,Implement JWT-based authentication for the application,completed,high,Alice Johnson,PROJ-001,PULSEVO Dashboard,8,7,2025-11-01,2025-11-03,2025-11-05,backend;security,Great work on this!
+TASK-002,Design dashboard UI,Create wireframes and mockups for the main dashboard,completed,medium,Bob Smith,PROJ-001,PULSEVO Dashboard,5,6,2025-11-01,2025-11-02,2025-11-04,frontend;design,
+TASK-003,Implement data ingestion,Build CSV/Excel upload functionality,in-progress,high,Alice Johnson,PROJ-001,PULSEVO Dashboard,10,6,2025-11-02,,2025-11-07,backend;data,Working on error handling
+TASK-004,Setup MongoDB connection,Configure database and create schemas,completed,high,Charlie Davis,PROJ-001,PULSEVO Dashboard,4,4,2025-11-01,2025-11-02,2025-11-03,backend;database,
+TASK-005,Create task statistics API,Endpoint for aggregated task metrics,in-progress,medium,Charlie Davis,PROJ-001,PULSEVO Dashboard,6,3,2025-11-03,,2025-11-06,backend;api,
+TASK-006,Integrate AI service,Connect Gemini API for insights,open,critical,Alice Johnson,PROJ-001,PULSEVO Dashboard,12,0,2025-11-04,,2025-11-08,ai;integration,
+TASK-007,Build chat interface,Conversational AI component,open,medium,Bob Smith,PROJ-001,PULSEVO Dashboard,8,0,2025-11-04,,2025-11-09,frontend;ai,
+TASK-008,Implement caching,Setup Node-Cache for performance,completed,low,Charlie Davis,PROJ-001,PULSEVO Dashboard,3,3,2025-11-02,2025-11-03,2025-11-05,backend;performance,
+TASK-009,Add real-time updates,WebSocket or polling for live data,open,medium,Charlie Davis,PROJ-001,PULSEVO Dashboard,10,0,2025-11-05,,2025-11-10,backend;realtime,
+TASK-010,Write API documentation,Document all endpoints and responses,blocked,low,Bob Smith,PROJ-001,PULSEVO Dashboard,5,1,2025-11-03,,2025-11-08,documentation,Waiting for final API changes
+TASK-011,Setup testing framework,Jest and React Testing Library,open,medium,Alice Johnson,PROJ-001,PULSEVO Dashboard,6,0,2025-11-05,,2025-11-09,testing;setup,
+TASK-012,Create project cards,UI component for project display,completed,medium,Bob Smith,PROJ-001,PULSEVO Dashboard,4,5,2025-11-02,2025-11-04,2025-11-06,frontend;ui,
+TASK-013,Implement file validation,Validate CSV/Excel formats,in-progress,high,Alice Johnson,PROJ-001,PULSEVO Dashboard,5,3,2025-11-04,,2025-11-07,backend;validation,
+TASK-014,Add error handling,Global error handling middleware,open,medium,Charlie Davis,PROJ-001,PULSEVO Dashboard,4,0,2025-11-05,,2025-11-08,backend;error-handling,
+TASK-015,Create sentiment analysis,AI-powered team morale tracking,open,low,Alice Johnson,PROJ-001,PULSEVO Dashboard,8,0,2025-11-05,,2025-11-10,ai;analytics,
+TASK-016,Mobile responsive design,Ensure dashboard works on mobile,open,medium,Bob Smith,PROJ-001,PULSEVO Dashboard,6,0,2025-11-04,,2025-11-09,frontend;responsive,
+TASK-017,Setup deployment,Configure production environment,open,high,Charlie Davis,PROJ-001,PULSEVO Dashboard,8,0,2025-11-06,,2025-11-12,devops;deployment,
+TASK-018,Optimize database queries,Add indexes and improve performance,in-progress,medium,Charlie Davis,PROJ-001,PULSEVO Dashboard,5,2,2025-11-05,,2025-11-08,backend;performance,
+TASK-019,Create loading states,Better UX with loading indicators,completed,low,Bob Smith,PROJ-001,PULSEVO Dashboard,2,2,2025-11-03,2025-11-04,2025-11-05,frontend;ux,
+TASK-020,Implement data export,Export reports to PDF/Excel,open,low,Alice Johnson,PROJ-001,PULSEVO Dashboard,7,0,2025-11-06,,2025-11-11,feature;export,
+TASK-021,Security audit,Review authentication and authorization,open,critical,Charlie Davis,PROJ-002,Security Enhancement,10,0,2025-11-06,,2025-11-13,security;audit,
+TASK-022,Add user roles,Implement role-based access control,open,high,Alice Johnson,PROJ-002,Security Enhancement,12,0,2025-11-06,,2025-11-14,backend;security,
+TASK-023,Create admin panel,Dashboard for system administrators,open,medium,Bob Smith,PROJ-002,Security Enhancement,15,0,2025-11-06,,2025-11-15,frontend;admin,
+TASK-024,Implement logging,Application-wide logging system,in-progress,medium,Charlie Davis,PROJ-002,Security Enhancement,6,4,2025-11-05,,2025-11-09,backend;logging,Great progress!
+TASK-025,Performance testing,Load testing and optimization,open,high,Charlie Davis,PROJ-002,Security Enhancement,8,0,2025-11-06,,2025-11-12,testing;performance,
